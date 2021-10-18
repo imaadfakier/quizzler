@@ -1,2 +1,2 @@
-# quizzler
+# Quizzler
 Test your general knowledge.
